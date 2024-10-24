@@ -48,23 +48,27 @@ Before running the tool, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/your-username/source-code-exporter.git
+```
+```bash
 cd source-code-exporter
-
+```
 2. Install package 
 ```bash
 npm install
 ```
 ## Usage
 
-1.Place the source code files you want to export into a folder.
+1. Place the source code files you want to export into a folder.
 
 2. Start the server:
 ```bash
-node server.js```
+node server.js
+```
 
 3. Open your web browser and navigate to
 ```bash
-http://localhost:3000```
+http://localhost:3000
+```
 
 4. Select the folder containing the source code files.
 
